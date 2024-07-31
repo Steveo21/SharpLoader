@@ -13,3 +13,7 @@ Usage: SharpLoader.exe .\calc.bin
 
 Compilation with Command Prompt for Visual Studio: 
 csc /out:SharpLoader.exe /debug:full source.cs
+
+OR
+
+Download the pre-compiled binary here: https://github.com/Steveo21/SharpLoader/releases/tag/v0.1
